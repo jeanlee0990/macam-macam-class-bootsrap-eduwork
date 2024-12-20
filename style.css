@@ -1,0 +1,37 @@
+.header {
+    background-color: #D8BFD8;
+    padding: 20px 0;
+}
+
+.header a {
+    color: #000; 
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.main-section {
+    background-color: #D8BFD8;
+    padding: 20px;
+}
+
+
+.main-image-placeholder {
+    background-color: #ffffff;
+    height: 200px;
+}
+
+.image-placeholder {
+    background-color: #e0e0e0;
+    height: 200px;
+}
+
+.small-image-placeholder {
+    background-color: #e0e0e0;
+    height: 150px;
+}
+
+.footer {
+    background-color: #D8BFD8;
+    padding: 10px;
+    text-align: center;
+}
